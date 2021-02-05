@@ -17,7 +17,8 @@ public class Trainer {
 
         Duck d2 = (Duck) a; // downcasting
         train(new Duck("Daisy"));
-        // train(new circus.animal.Parrot());
+        //train(new circus.animal.Parrot());
+        //add comment for merge
     }
 
     private static void getToSpeak(Animal animal) {
