@@ -19,6 +19,7 @@ public class Trainer {
         train(new Duck("Daisy"));
         //train(new circus.animal.Parrot());
         //add comment for merge
+        //add documentation
     }
 
     private static void getToSpeak(Animal animal) {
